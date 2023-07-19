@@ -1,6 +1,6 @@
 # Информация обо мне
 
- ![avatar](/this computer/desctop/avatar.png)
+
 
  Моё имя: Ксения
 
